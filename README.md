@@ -19,5 +19,5 @@ If you’re using Minikube, you might need to replace localhost with 192.168.99.
     banana
 
 
-https://kubernetes.io/docs/concepts/services-networking/ingress/
-https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+- https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
